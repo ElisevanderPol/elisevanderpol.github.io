@@ -38,36 +38,99 @@
     </nav>
   </div>
   <main class="mdl-layout__content">
-    <div class="page-content"><!-- Your content goes here -->
+<div class="page-content"><!-- Your content goes here --><style>
+  body {
+    font-family: arial;
+  }
+
+  table {
+    border: 1px solid #ccc;
+    width: 100%;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  table tr {
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
+
+  table th, table td {
+    padding: 10px;
+    text-align: center;
+  }
+
+  table th {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  @media screen and (max-width: 600px) {
+
+    table {
+      border: 0;
+    }
+
+    table thead {
+      display: none;
+    }
+
+    table tr {
+      margin-bottom: 10px;
+      display: block;
+      border-bottom: 2px solid #ddd;
+    }
+
+    table td {
+      display: block;
+      text-align: right;
+      font-size: 13px;
+      border-bottom: 1px dotted #ccc;
+    }
+
+    table td:last-child {
+      border-bottom: 0;
+    }
+
+    table td:before {
+      content: attr(data-label);
+      float: left;
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+  }
+</style>
 <div class="mdl-grid">
-	<div class="mdl-layout-spacer"></div>
-	<div class="mdl-cell mdl-cell--6-col mdl-shadow--2dp">
-		2016
-		<ul class="demo-list-item mdl-list">
-		    <li class="mdl-list__item">
-       			  <span class="mdl-list__item-primary-content">
-				 Linguistic Style Accommodation in Disagreements
-			  </span>
-			  <span class="mdl-list__item-secondary-content">
-				  Elise van der Pol, Sharon Gieske, Raquel Fern&aacute;ndez. *SEM 2016
-        		  </span>
-		     </li>
-		</ul>
-		2015
-		<ul class="demo-list-item mdl-list">
-		    <li class="mdl-list__item">
-       			  <span class="mdl-list__item-primary-content">
-				 Empirical Evaluation of Collective Rationality for Quota Rules in Judgment Aggregation 
-			  </span>
-			  <span class="mdl-list__item-secondary-content">
-				  Sharon Gieske, Elise van der Pol, Ulle Endriss. BNAIC 2015
-        		  </span>
-		     </li>
-		</ul>
-	</div>
-	<div class="mdl-layout-spacer"></div>
-</div>
-    </div>
+  <div class="mdl-layout-spacer"></div>
+  <div class="mdl-cell mdl-cell--6-col">
+    <table class="mdl-shadow--2dp" id="my-table">
+      <thead>
+        <tr>
+          <th class="mdl-data-table__cell--non-numeric">Paper</th>
+          <th>Authors</th>
+          <th>Venue</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-label="Paper">Linguistic Style Accommodation in Disagreements</td>
+          <td data-label="Authors" >Elise van der Pol, Sharon Gieske, Raquel Fern&aacute;ndez</td>
+          <td data-label="Venue">*SEM 2016</td>
+        </tr>
+        <tr>
+          <td data-label="Paper"> Empirical Evaluation of Collective Rationality for Quota Rules in Judgment Aggregation</td>
+          <td data-label="Authors" >Sharon Gieske, Elise van der Pol, Ulle Endriss</td>
+          <td data-label="Venue">BNAIC 2015</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+  <div class="mdl-layout-spacer"></div>
+</div>    </div>
   </main>
 
 <style>
@@ -80,9 +143,9 @@
 <footer class="mdl-mini-footer">
  <div class="mdl-mini-footer__left-section">
    <div class="mdl-logo"></div>
-      	<ul class="mdl-mini-footer__link-list">
-			<li><a href="https://getmdl.io/">Website built using Material Design Lite</a></li>
-		</ul>
+        <ul class="mdl-mini-footer__link-list">
+      <li><a href="https://getmdl.io/">Website built using Material Design Lite</a></li>
+    </ul>
  </div>
 </footer>
 </div>
@@ -93,10 +156,8 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-85873403-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 </body>
 
