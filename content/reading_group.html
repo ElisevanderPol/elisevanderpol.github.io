@@ -1,36 +1,110 @@
+<style>
+  body {
+    font-family: arial;
+  }
+
+  table {
+    border: 1px solid #ccc;
+    width: 100%;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  table tr {
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
+
+  table th, table td {
+    padding: 10px;
+    text-align: center;
+  }
+
+  table th {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+
+  @media screen and (max-width: 600px) {
+
+    table {
+      border: 0;
+    }
+
+    table thead {
+      display: none;
+    }
+
+    table tr {
+      margin-bottom: 10px;
+      display: block;
+      border-bottom: 2px solid #ddd;
+    }
+
+    table td {
+      display: block;
+      text-align: right;
+      font-size: 13px;
+      border-bottom: 1px dotted #ccc;
+    }
+
+    table td:last-child {
+      border-bottom: 0;
+    }
+
+    table td:before {
+      content: attr(data-label);
+      float: left;
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+  }
+</style>
 <div class="mdl-grid">
-	<div class="mdl-layout-spacer"></div>
-	<div class="mdl-cell mdl-cell--6-col">
-		<table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp" id="my-table">
-		  <thead>
-		    <tr>
-		      <th class="mdl-data-table__cell--non-numeric">Paper</th>
-		      <th>Authors</th>
-		      <th>Date/Time</th>
-		      <th>Location</th>
-		    </tr>
-		  </thead>
-		  <tbody>
-		    <tr>
-		      <td class="mdl-data-table__cell--non-numeric">Human-level Control through Deep Reinforcement Learning</td>
-		      <td>Mnih et al.</td>
-		      <td>tba</td>
-		      <td>tba</td>
-		    </tr>
-		    <tr>
-		      <td class="mdl-data-table__cell--non-numeric">Prioritized Experience Replay</td>
-		      <td>Schaul et al.</td>
-		      <td>tba</td>
-		      <td>tba</td>
-		    </tr>
-		    <tr>
-		      <td class="mdl-data-table__cell--non-numeric">Dueling Network Architectures for Deep Reinforcement Learning</td>
-		      <td>Wang et al.</td>
-		      <td>tba</td>
-		      <td>tba</td>
-		    </tr>
-		  </tbody>
-		</table>
-	</div>
-	<div class="mdl-layout-spacer"></div>
+  <div class="mdl-layout-spacer"></div>
+  <div class="mdl-cell mdl-cell--6-col">
+    List is open to suggestions/changes.
+    To join the reading group, please <a href="https://groups.google.com/forum/#!forum/deeprlreadinggroup/join">subscribe</a>
+    <table class="mdl-shadow--2dp" id="my-table">
+      <thead>
+        <tr>
+          <th class="mdl-data-table__cell--non-numeric">Paper</th>
+          <th>Authors</th>
+          <th>Date/Time</th>
+          <th>Location</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-label="Paper">Human-level Control through Deep Reinforcement Learning</td>
+          <td data-label="Authors" >Mnih et al.</td>
+          <td data-label="Date/Time">4th November 2016, 11:00</td>
+          <td data-label="Location">tba</td>
+        </tr>
+        <tr>
+          <td data-label="Paper">Prioritized Experience Replay</td>
+          <td data-label="Authors">Schaul et al.</td>
+          <td data-label="Date/Time">18th November 2016, 11:00</td>
+          <td data-label="Location">tba</td>
+        </tr>
+        <tr>
+          <td data-label="Paper">Dueling Network Architectures for Deep Reinforcement Learning</td>
+          <td data-label="Authors" >Wang et al.</td>
+          <td data-label="Date/Time">2nd December 2016, 11:00</td>
+          <td data-label="Location">tba</td>
+        </tr>
+        <tr>
+          <td data-label="Paper">Deep Exploration via Bootstrapped DQN</td>
+          <td data-label="Authors" >Osband et al.</td>
+          <td data-label="Date/Time">16th December 2016, 11:00</td>
+          <td data-label="Location">tba</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+  <div class="mdl-layout-spacer"></div>
 </div>
