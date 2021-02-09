@@ -3,7 +3,7 @@
 
 <head>
 	<title>Plannable Approximations to MDP Homomorphisms </title>
-<!-- Style adapted from http://txti.es/ -->
+<!-- Style adapted from txti.es/ -->
 <style type="text/css">body {font-size: 1.1em; line-height: 1.5em; max-width: 80em; margin: auto; padding: 0 2%;} img {max-width: 100%; display: block; margin: .75em auto;}</style>
 </head>
 
@@ -15,18 +15,18 @@
 	</div>
 	<div>
 		<p><b>Correspondence to Elise van der Pol:</b> e.e.vanderpol[at]uva[dot]nl &#183; <a href="https://twitter.com/ElisevanderPol">@ElisevanderPol</a></p>
-        	<p><b>Relevant links:</b> <a href="http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1431.pdf">Paper</a> &#183; <a href="https://github.com/ElisevanderPol/PRAE">Code</a> &#183; <a href="https://underline.io/lecture/228-plannable-approximations-to-mdp-homomorphisms-equivariance-under-actions">Video</a></p>
+        	<p><b>Relevant links:</b> <a href="https://arxiv.org/pdf/2002.11963.pdf">Paper</a> &#183; <a href="https://github.com/ElisevanderPol/PRAE">Code</a> &#183; <a href="https://underline.io/lecture/228-plannable-approximations-to-mdp-homomorphisms-equivariance-under-actions">Video</a></p>
 	</div>
 
 	<div>
-		<p>If you need meaningful latent representations for MDPs for e.g. planning or exploration, have a look at our <a href="http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1431.pdf">AAMAS 2020 paper</a>. We use a contrastive loss to learn MDP homomorphisms.</p>
+		<p>If you need meaningful latent representations for MDPs for e.g. planning or exploration, have a look at our <a href="https://arxiv.org/abs/2002.11963">AAMAS 2020 paper</a>. We use a contrastive loss to learn MDP homomorphisms.</p>
 		<img src="assets/aamas2020/thumbnail.png" alt="Visualization of action equivariance" width=400>
 		<p>An MDP homomorphism is a structure-preserving map from an input MDP to an abstract MDP (the “homomorphic image”). MDP homomorphisms maintain the optimal Q-values and thus the optimal policy.</p>
 		<p>Roughly speaking, we find a smaller abstract representation of our MDP, and if the map is an MDP homomorphism, the optimal policy is guaranteed to be the same.</p>
 		<p>We prove that as the loss function reaches 0, we find an MDP homomorphism for deterministic MDPs. This is attractive because we could in theory plan in a reduced MDP and lift to the optimal policy in the original, bigger MDP!</p>
 		<img src="assets/aamas2020/latents.png" alt="Latent spaces learned by different approaches" width=800>
 		<p>Due to the homomorphism constraints, we learn much better structured representations (rightmost figure), which support better planning. We show empirically that the policy found in the abstract MDP performs well in the original MDP. </p>
-		<p>For more results and details, have a look at the <a href="http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1431.pdf">paper</a>.</p>
+		<p>For more results and details, have a look at the <a href="https://arxiv.org/abs/2002.11963">paper</a>.</p>
 	</div>
 
 
