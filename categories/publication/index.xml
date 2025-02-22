@@ -6,12 +6,13 @@
     <description>Recent content by Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Feb 2025 20:20:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.elisevanderpol.nl/categories/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Expected Return Symmetries</title>
       <link>https://www.elisevanderpol.nl/posts/muglich2025/</link>
-      <pubDate>Tue, 04 Feb 2025 20:20:08 +0100</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.elisevanderpol.nl/posts/muglich2025/</guid>
       <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;D. Muglich, J. Forkel, E. van der Pol, J. Foerster&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;Accepted to ICLR 2025&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://openreview.net/forum?id=wFg0shwoRe&#34;&gt;openreview&lt;/a&gt;&lt;/p&gt;</description>
     </item>
@@ -23,7 +24,7 @@
       <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;O. Biza, S. Thompson, K.R. Pagidi, A. Kumar, E. van der Pol, R. Walters, T. Kipf, J. van de Meent, L.L.S. Wong, R. Platt&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;CoRL 2023&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://proceedings.mlr.press/v229/biza23a/biza23a.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Symmetry and Structure in Deep Reinforcement Learning (PhD Thesis)</title>
+      <title>Symmetry and Structure in Deep Reinforcement Learning</title>
       <link>https://www.elisevanderpol.nl/posts/vanderpol2023/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.elisevanderpol.nl/posts/vanderpol2023/</guid>
@@ -34,7 +35,7 @@
       <link>https://www.elisevanderpol.nl/posts/kasarla2022/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://www.elisevanderpol.nl/posts/kasarla2022/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;T. Kasarla, G. J. Burghouts, M. van Spengler, E. van der Pol, R. Cucchiara, P. Mettes&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;NeurIPS 2022&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2022/file/7b95e1ca9d7347da59cefd362e60a0b6-Paper-Conference.pdf&#34;&gt;pdf&lt;/a&gt;&#xA;&lt;a href=&#34;https://tkasarla.github.io/papers/max-separation-as-inductive-bias/&#34;&gt;overview&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tkasarla/max-separation-as-inductive-bias&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;T. Kasarla, G. J. Burghouts, M. van Spengler, E. van der Pol, R. Cucchiara, P. Mettes&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;NeurIPS 2022 (oral)&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2022/file/7b95e1ca9d7347da59cefd362e60a0b6-Paper-Conference.pdf&#34;&gt;pdf&lt;/a&gt;&#xA;&lt;a href=&#34;https://tkasarla.github.io/papers/max-separation-as-inductive-bias/&#34;&gt;overview&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tkasarla/max-separation-as-inductive-bias&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Equivariant Networks for Zero-Shot Coordination</title>
@@ -135,7 +136,7 @@
       <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, F.A. Oliehoek&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;BNAIC 2016&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolBNAIC2016b.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.fransoliehoek.net/trafficvideo&#34;&gt;video&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Deep Reinforcement Learning for Coordination in Traffic Light Control (MSc Thesis)</title>
+      <title>Deep Reinforcement Learning for Coordination in Traffic Light Control</title>
       <link>https://www.elisevanderpol.nl/posts/vanderpol2016d/</link>
       <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://www.elisevanderpol.nl/posts/vanderpol2016d/</guid>
