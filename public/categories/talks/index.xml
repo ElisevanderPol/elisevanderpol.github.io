@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Elise van der Pol</title>
-    <link>https://www.elisevanderpol.nl/categories/talks/</link>
+    <link>https://www.elisevanderpol.nl/public/categories/talks/</link>
     <description>Recent content in Talks on Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 22 Feb 2025 13:47:48 +0100</lastBuildDate>
-    <atom:link href="https://www.elisevanderpol.nl/categories/talks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.elisevanderpol.nl/public/categories/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keynote: Symmetry &amp; Structure in RL – State of the art, challenges, and future directions (@EWRL 2024)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2024/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2024/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2024/</guid>
       <description>&lt;p&gt;30 November 2024 I gave a keynote at EWRL 2024&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keynote: Symmetry and Structure in RL - State of the Art, challenges, and future directions (@IROS Workshop)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2024b/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2024b/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2024b/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2024b/</guid>
       <description>&lt;p&gt;I gave a keynote at the &lt;a href=&#34;https://equirob2024.github.io/&#34;&gt;IROS 2024 Workshop on Equivariant Robotics&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keynote: Symmetries in Single and Multi-Agent Learning (@Chalmers Structured Learning Workshop)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023d/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2023d/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023d/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2023d/</guid>
       <description>&lt;p&gt;25th October 2023 I gave an invited talk at the Chalmers Structured Learning Workshop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: Symmetries in Reinforcement Learning (@WAI NL Summit)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023c/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2023c/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023c/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2023c/</guid>
       <description>&lt;p&gt;10th October 2023 I gave a talk at the &lt;a href=&#34;https://womeninai.nl/2023/11/08/wai-summit-top-5-award-nominees/&#34;&gt;WAI NL Summit&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lecture: Symmetries in Reinforcement Learning (@Barcelona RLSS)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023b/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2023b/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023b/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2023b/</guid>
       <description>&lt;p&gt;5th July 2023 I gave a lecture on Symmetries in RL in the &lt;a href=&#34;http://rlsummerschool.com/&#34;&gt;Barcelona Reinforcement Learning Summer School&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: Symmetry and Structure in Deep Reinforcement Learning (@MILA)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023a/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2023a/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023a/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2023a/</guid>
       <description>&lt;p&gt;2nd February 2023 I gave an invited talk in the MILA Geometric Deep Learning Reading Group&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: Symmetry and Structure in Deep Reinforcement Learning (@London)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022f/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2022f/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022f/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2022f/</guid>
       <description>&lt;p&gt;14 December 2022 I gave an invited talk at the &lt;a href=&#34;https://icarl.doc.ic.ac.uk/&#34;&gt;icarl seminars&lt;/a&gt; at Imperial College London.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lecture: Introduction to Reinforcement Learning (@Amsterdam)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022e/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2022e/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022e/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2022e/</guid>
       <description>&lt;p&gt;I gave a guest lecture Introduction to Reinforcement Learning in University of Amsterdam&amp;rsquo;s MSc Data Science course Applied Machine Learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lecture: Symmetries in Reinforcement Learning (@Amsterdam RLSS)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022d/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2022d/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022d/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2022d/</guid>
       <description>&lt;p&gt;14th July 2022 I&amp;rsquo;m giving a lecture on Symmetries in Reinforcement Learning at the &lt;a href=&#34;http://2022.rlsummerschool.com/&#34;&gt;Amsterdam Reinforcement Learning Summer School&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keynote: Symmetry and Structure in Deep Reinforcement Learning (@BeneRL)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022c/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2022c/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022c/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2022c/</guid>
       <description>&lt;p&gt;03 June 2022 I gave an invited talk at BeneRL 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: Symmetry and Structure in Deep Reinforcement Learning (@Oxford)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022a/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2022a/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022a/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2022a/</guid>
       <description>&lt;p&gt;19 April 2022 I gave an invited talk at University of Oxford.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lecture: Introduction to Reinforcement Learning (@Amsterdam)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2021c/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2021c/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2021c/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2021c/</guid>
       <description>&lt;p&gt;30 November 2021 I gave a guest lecture Introduction to Reinforcement Learning in University of Amsterdam&amp;rsquo;s MSc Data Science course Applied Machine Learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Keynote: Equivariance in MDPs (@ICLR Workshop)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2021a/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2021a/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2021a/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2021a/</guid>
       <description>&lt;p&gt;7 May 2021 I gave a keynote talk on Equivariance in MDPs at the ICLR workshop on &lt;a href=&#34;https://iclr.cc/virtual/2021/workshop/2126&#34;&gt;Self-supervision for Reinforcement Learning&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: MDP Homomorphic Networks for Deep Reinforcement Learning (@Tuebingen)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020d/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2020d/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020d/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2020d/</guid>
       <description>&lt;p&gt;15 December 2020 I gave a talk on MDP Homomorphic Networks for Deep Reinforcement Learning at the University of Tuebingen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lecture: Introduction to Reinforcement Learning (@Amsterdam)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020c/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2020c/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020c/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2020c/</guid>
       <description>&lt;p&gt;23 November 2020 I gave a guest lecture Introduction to Reinforcement Learning in University of Amsterdam&amp;rsquo;s MSc Data Science course Applied Machine Learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: Equivariance, deep reinforcement learning, and making it work (@Leiden)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020b/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2020b/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020b/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2020b/</guid>
       <description>&lt;p&gt;13 November 2020 I gave a talk on Equivariance, deep reinforcement learning, and making it work at Leiden University.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: Data-Efficient Reinforcement Learning (@Delft)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020a/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2020a/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020a/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2020a/</guid>
       <description>&lt;p&gt;I gave a talk on Data-efficient Reinforcement Learning as part of TU Delft&amp;rsquo;s &lt;a href=&#34;https://courses.edx.org/courses/course-v1:DelftX+AIIP1x+3T2020/course/&#34;&gt;AI in Practice course&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talk: Hyperspherical Prototype Networks (@Bosch Center for AI)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2019/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2019/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2019/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2019/</guid>
       <description></description>
     </item>
     <item>
       <title>Talk: (@Bosch Center for AI)</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2018/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/talk2018/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2018/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/talk2018/</guid>
       <description></description>
     </item>
   </channel>

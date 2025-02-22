@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Elise van der Pol</title>
-    <link>https://www.elisevanderpol.nl/categories/</link>
+    <link>https://www.elisevanderpol.nl/public/categories/</link>
     <description>Recent content in Categories on Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 22 Feb 2025 15:29:32 +0100</lastBuildDate>
-    <atom:link href="https://www.elisevanderpol.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.elisevanderpol.nl/public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publication</title>
-      <link>https://www.elisevanderpol.nl/categories/publication/</link>
+      <link>https://www.elisevanderpol.nl/public/categories/publication/</link>
       <pubDate>Tue, 04 Feb 2025 20:20:08 +0100</pubDate>
-      <guid>https://www.elisevanderpol.nl/categories/publication/</guid>
+      <guid>https://www.elisevanderpol.nl/public/categories/publication/</guid>
       <description></description>
     </item>
     <item>
       <title>About-Me</title>
-      <link>https://www.elisevanderpol.nl/categories/about-me/</link>
+      <link>https://www.elisevanderpol.nl/public/categories/about-me/</link>
       <pubDate>Sun, 02 Feb 2025 17:16:40 +0100</pubDate>
-      <guid>https://www.elisevanderpol.nl/categories/about-me/</guid>
+      <guid>https://www.elisevanderpol.nl/public/categories/about-me/</guid>
       <description></description>
     </item>
     <item>
       <title>Talks</title>
-      <link>https://www.elisevanderpol.nl/categories/talks/</link>
+      <link>https://www.elisevanderpol.nl/public/categories/talks/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/categories/talks/</guid>
+      <guid>https://www.elisevanderpol.nl/public/categories/talks/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>https://www.elisevanderpol.nl/categories/news/</link>
+      <link>https://www.elisevanderpol.nl/public/categories/news/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/categories/news/</guid>
+      <guid>https://www.elisevanderpol.nl/public/categories/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Organization</title>
-      <link>https://www.elisevanderpol.nl/categories/organization/</link>
+      <link>https://www.elisevanderpol.nl/public/categories/organization/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/categories/organization/</guid>
+      <guid>https://www.elisevanderpol.nl/public/categories/organization/</guid>
       <description></description>
     </item>
     <item>
       <title>Job</title>
-      <link>https://www.elisevanderpol.nl/categories/job/</link>
+      <link>https://www.elisevanderpol.nl/public/categories/job/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/categories/job/</guid>
+      <guid>https://www.elisevanderpol.nl/public/categories/job/</guid>
       <description></description>
     </item>
   </channel>

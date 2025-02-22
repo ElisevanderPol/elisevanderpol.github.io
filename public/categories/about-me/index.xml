@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About-Me on Elise van der Pol</title>
-    <link>https://www.elisevanderpol.nl/categories/about-me/</link>
+    <link>https://www.elisevanderpol.nl/public/categories/about-me/</link>
     <description>Recent content in About-Me on Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 22 Feb 2025 15:29:32 +0100</lastBuildDate>
-    <atom:link href="https://www.elisevanderpol.nl/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.elisevanderpol.nl/public/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://www.elisevanderpol.nl/posts/about_me/</link>
+      <link>https://www.elisevanderpol.nl/public/posts/about_me/</link>
       <pubDate>Sun, 02 Feb 2025 17:16:40 +0100</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/about_me/</guid>
+      <guid>https://www.elisevanderpol.nl/public/posts/about_me/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a reinforcement learning researcher working in AI for Science and geometric deep reinforcement learning.&lt;/p&gt;&#xA;&lt;h3 id=&#34;academic-bio&#34;&gt;Academic Bio&lt;/h3&gt;&#xA;&lt;p&gt;Researcher at Microsoft Research AI for Science, Amsterdam. Before joining MSR, I completed my PhD on the topic of &lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolDISSERTATION2023.pdf&#34;&gt;Symmetry and Structure in Deep Reinforcement Learning&lt;/a&gt; in the &lt;a href=&#34;https://amlab.science.uva.nl/&#34;&gt;Amsterdam Machine Learning Lab&lt;/a&gt;, working with &lt;a href=&#34;https://staff.fnwi.uva.nl/m.welling/&#34;&gt;Max Welling&lt;/a&gt; (UvA), &lt;a href=&#34;https://www.fransoliehoek.net/&#34;&gt;Frans Oliehoek&lt;/a&gt; (TU Delft) and &lt;a href=&#34;https://staff.fnwi.uva.nl/h.c.vanhoof/homepage/&#34;&gt;Herke van Hoof&lt;/a&gt; (UvA). Before my PhD, I studied Artificial Intelligence at the University of Amsterdam where I obtained my Master&amp;rsquo;s degree (cum laude). My MSc thesis was on &lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolTHESIS2016.pdf&#34;&gt;Deep Reinforcement Learning for Coordinated Traffic Light Controllers&lt;/a&gt;. I was also involved with &lt;a href=&#34;https://ivi.fnwi.uva.nl/ellis/inclusive-ai/&#34;&gt;Inclusive AI&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
