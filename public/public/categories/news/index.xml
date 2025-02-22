@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Elise van der Pol </title>
+    <link>https://www.elisevanderpol.nl/categories/news/</link>
+    <description>Recent content by Elise van der Pol</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 22 Feb 2025 15:29:32 +0100</lastBuildDate>
+    <atom:link href="https://www.elisevanderpol.nl/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribution: CS PhD narratives book</title>
+      <link>https://www.elisevanderpol.nl/posts/phd_narratives_book/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/phd_narratives_book/</guid>
+      <description>&lt;p&gt;I was featured in the PhD narratives book &lt;a href=&#34;https://ir.cwi.nl/pub/33473&#34;&gt;Why would I want to do a PhD in computer science?&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nomination for the WAI NL Researcher Award</title>
+      <link>https://www.elisevanderpol.nl/posts/wai_nomination/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/wai_nomination/</guid>
+      <description>&lt;p&gt;I was nominated for the WAI NL Researcher Award.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PhD Defense</title>
+      <link>https://www.elisevanderpol.nl/posts/phd_defense/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/phd_defense/</guid>
+      <description>&lt;p&gt;12th July 2023 I successfully defended my PhD thesis entitled &lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolDISSERTATION2023.pdf&#34;&gt;Symmetry and Structure in Deep Reinforcement Learning&lt;/a&gt; and obtained my PhD degree.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organization: Symmetries in Robot Learning Workshop (@RSS 2023)</title>
+      <link>https://www.elisevanderpol.nl/posts/rssworkshop/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/rssworkshop/</guid>
+      <description>&lt;p&gt;We organized a &lt;a href=&#34;https://sites.google.com/view/rss23-sym&#34;&gt;workshop on Symmetries in Robot Learning&lt;/a&gt; at &lt;a href=&#34;https://roboticsconference.org/2023/&#34;&gt;RSS 2023&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organization: Physics for Machine Learning Workshop (@ICLR 2023)</title>
+      <link>https://www.elisevanderpol.nl/posts/iclrworkshop2023/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/iclrworkshop2023/</guid>
+      <description>&lt;p&gt;We organized a workshop on &lt;a href=&#34;https://physics4ml.github.io/&#34;&gt;Physics for Machine Learning&lt;/a&gt; at ICLR 2023.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WiML Profile</title>
+      <link>https://www.elisevanderpol.nl/posts/wiml_profile/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/wiml_profile/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://twitter.com/WiMLworkshop/status/1617397679914422272&#34;&gt;profiled&lt;/a&gt; by &lt;a href=&#34;https://wimlworkshop.org/&#34;&gt;Women in Machine Learning&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job: Microsoft Senior Researcher</title>
+      <link>https://www.elisevanderpol.nl/posts/microsoftjob/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/microsoftjob/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve joined Microsoft Research Amsterdam as a Senior Researcher. I&amp;rsquo;ll be working on reinforcement learning and deep learning for molecular simulation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organization: Gamification and Multi-Agent Solutions Workshop (@ICLR 2022)</title>
+      <link>https://www.elisevanderpol.nl/posts/iclrworkshop/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/iclrworkshop/</guid>
+      <description>&lt;p&gt;We organized a &lt;a href=&#34;https://www.gamificationmas.com/&#34;&gt;workshop on gamification and multi-agent solutions&lt;/a&gt; at ICLR 2022.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organization: Data-Centric Reinforcement Learning Workshop (@NeurIPS 2021)</title>
+      <link>https://www.elisevanderpol.nl/posts/neuripsworkshop/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/neuripsworkshop/</guid>
+      <description>&lt;p&gt;We organized a &lt;a href=&#34;https://sites.google.com/view/ecorl2021/home&#34;&gt;workshop on data-centric reinforcement learning&lt;/a&gt; at NeurIPS 2021.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job: DeepMind Internship</title>
+      <link>https://www.elisevanderpol.nl/posts/deepmindvisit/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/deepmindvisit/</guid>
+      <description>&lt;p&gt;I was a research scientist intern in DeepMind&amp;rsquo;s Multi-Agent team.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organization: Bad Hypothesis Contest Social (@ICLR 2021)</title>
+      <link>https://www.elisevanderpol.nl/posts/iclrsocial/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/iclrsocial/</guid>
+      <description>&lt;p&gt;We organized an &lt;a href=&#34;https://www.elisevanderpol.nl/badhypothesiscontest/&#34;&gt;ICLR social&lt;/a&gt; which took place 6 May 2021.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contribution: GNNs in RL</title>
+      <link>https://www.elisevanderpol.nl/posts/gdl_blog/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.elisevanderpol.nl/posts/gdl_blog/</guid>
+      <description>&lt;p&gt;I was invited to contribute my thoughts on GNNs in RL to &lt;a href=&#34;https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc&#34;&gt;What does 2022 hold for Geometric and Graph ML?&lt;/a&gt; by Michael Bronstein and Petar Veličkovi&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

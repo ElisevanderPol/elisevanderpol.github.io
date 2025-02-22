@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Elise van der Pol </title>
+    <link>https://www.elisevanderpol.nl/tags/</link>
+    <description>Recent content by Elise van der Pol</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="https://www.elisevanderpol.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
