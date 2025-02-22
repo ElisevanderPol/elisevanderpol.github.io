@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Elise van der Pol </title>
+    <link>http://localhost:38477/categories/</link>
+    <description>Recent content by Elise van der Pol</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 22 Feb 2025 15:29:32 +0100</lastBuildDate>
+    <atom:link href="http://localhost:38477/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publication</title>
+      <link>http://localhost:38477/categories/publication/</link>
+      <pubDate>Tue, 04 Feb 2025 20:20:08 +0100</pubDate>
+      <guid>http://localhost:38477/categories/publication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About-Me</title>
+      <link>http://localhost:38477/categories/about-me/</link>
+      <pubDate>Sun, 02 Feb 2025 17:16:40 +0100</pubDate>
+      <guid>http://localhost:38477/categories/about-me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:38477/categories/talks/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38477/categories/talks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:38477/categories/news/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38477/categories/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organization</title>
+      <link>http://localhost:38477/categories/organization/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38477/categories/organization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job</title>
+      <link>http://localhost:38477/categories/job/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38477/categories/job/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
