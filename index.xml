@@ -11,10 +11,10 @@
     
     <item>
       <title>Expected Return Symmetries</title>
-      <link>https://www.elisevanderpol.nl/posts/muglich2025/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/muglich2025/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/muglich2025/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;D. Muglich, J. Forkel, E. van der Pol, J. Foerster&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;Accepted to ICLR 2025&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://openreview.net/forum?id=wFg0shwoRe&#34;&gt;openreview&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/muglich2025/</guid>
+      <description>&lt;p&gt;Our paper on Expected Return Symmetries was accepted to ICLR 2025. The paper concerns mutually incompatible symmetry breaking in zero-shot coordination. We introduce expected return symmetries, a broader symmetry class than environmental symmetries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetry &amp; Structure in RL – State of the art, challenges, and future directions</title>
@@ -46,10 +46,10 @@
     </item>
     <item>
       <title>One-shot Imitation Learning via Interaction Warping</title>
-      <link>https://www.elisevanderpol.nl/posts/biza2023/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/biza2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/biza2023/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;O. Biza, S. Thompson, K.R. Pagidi, A. Kumar, E. van der Pol, R. Walters, T. Kipf, J. van de Meent, L.L.S. Wong, R. Platt&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;CoRL 2023&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://proceedings.mlr.press/v229/biza23a/biza23a.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/biza2023/</guid>
+      <description></description>
     </item>
     <item>
       <title>Symmetries in Single and Multi-Agent Learning</title>
@@ -74,10 +74,10 @@
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2023/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2023/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2023/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;PhD Thesis, University of Amsterdam&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolDISSERTATION2023.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolDISSERTATIONCOVER2023.pdf&#34;&gt;cover&lt;/a&gt;&#xA;&lt;a href=&#34;https://dare.uva.nl/search?identifier=28a0c5cb-ff03-4f52-8022-d0c6722041e7&#34;&gt;on the university website&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2023/</guid>
+      <description></description>
     </item>
     <item>
       <title>Successful PhD Defense</title>
@@ -137,24 +137,24 @@
     </item>
     <item>
       <title>Maximum Class Separation as Inductive Bias in One Matrix</title>
-      <link>https://www.elisevanderpol.nl/posts/kasarla2022/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/kasarla2022/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/kasarla2022/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;T. Kasarla, G. J. Burghouts, M. van Spengler, E. van der Pol, R. Cucchiara, P. Mettes&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;NeurIPS 2022 (oral)&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2022/file/7b95e1ca9d7347da59cefd362e60a0b6-Paper-Conference.pdf&#34;&gt;pdf&lt;/a&gt;&#xA;&lt;a href=&#34;https://tkasarla.github.io/papers/max-separation-as-inductive-bias/&#34;&gt;overview&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tkasarla/max-separation-as-inductive-bias&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/kasarla2022/</guid>
+      <description></description>
     </item>
     <item>
       <title>Equivariant Networks for Zero-Shot Coordination</title>
-      <link>https://www.elisevanderpol.nl/posts/muglich2022/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/muglich2022/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/muglich2022/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;D. Muglich, C. Schroeder de Witt, E. van der Pol, S. Whiteson, J. Foerster&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;NeurIPS 2022&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper_files/paper/2022/file/29e4b51d45dc8f534260adc45b587363-Paper-Conference.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/muglich2022/</guid>
+      <description></description>
     </item>
     <item>
       <title>Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2022b/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2022b/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2022b/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, I. Gemp, Y. Bachrach, R. Everett&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;ICML 2022 workshop on Topology, Algebra, and Geometry in Machine Learning&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2207.14589.pdf&#34;&gt;pdf&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.deepmind.com/publications/stochastic-parallelizable-eigengap-dilation-for-large-graph-clustering&#34;&gt;overview&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2022b/</guid>
+      <description>&lt;p&gt;Based on some work we did during my DeepMind internship.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetries in Reinforcement Learning</title>
@@ -186,17 +186,17 @@
     </item>
     <item>
       <title>Multi-Agent MDP Homomorphic Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2022a/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2022a/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2022a/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, H. van Hoof, F.A. Oliehoek, M. Welling&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;ICLR 2022&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://openreview.net/pdf?id=H7HDG--DJF0&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ElisevanderPol/marl_homomorphic_networks&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2022a/</guid>
+      <description></description>
     </item>
     <item>
       <title>Geometric and Physical Quantities improve E(3) Equivariant Message Passing</title>
-      <link>https://www.elisevanderpol.nl/posts/brandstetter2022/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/brandstetter2022/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/brandstetter2022/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;J. Brandstetter, R. Hesselink, E. van der Pol, E.J. Bekkers, M. Welling&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;ICLR 2022 (spotlight)&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2110.02905.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/RobDHess/Steerable-E3-GNN0&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/brandstetter2022/</guid>
+      <description></description>
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
@@ -221,9 +221,9 @@
     </item>
     <item>
       <title>The Impact of Negative Sampling on Contrastive Structured World Models</title>
-      <link>https://www.elisevanderpol.nl/posts/biza2021/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/biza2021/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/biza2021/</guid>
+      <guid>https://www.elisevanderpol.nl/posts/publication/biza2021/</guid>
       <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;O. Biza, E. van der Pol, T. Kipf&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;ICML 2021 workshop on Self-Supervised Learning for Reasoning and Perception&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2107.11676.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ondrejba/negative-sampling-icml-21&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -270,10 +270,10 @@
     </item>
     <item>
       <title>MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2020b/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2020b/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2020b/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, D.E. Worrall, H. van Hoof, F.A. Oliehoek, M. Welling&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;NeurIPS 2020&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/2be5f9c2e3620eb73c2972d7552b6cb5-Paper.pdf&#34;&gt;pdf&lt;/a&gt;&#xA;&lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/2be5f9c2e3620eb73c2972d7552b6cb5-Supplemental.pdf&#34;&gt;supplementary&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.elisevanderpol.nl/mhn.html&#34;&gt;overview&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ElisevanderPol/mdp-homomorphic-networks&#34;&gt;code&lt;/a&gt;&#xA;&lt;a href=&#34;https://videos.neurips.cc/search/mdp%20homomorphic/video/slideslive-38936788&#34;&gt;video&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2020b/</guid>
+      <description></description>
     </item>
     <item>
       <title>Introduction to Reinforcement Learning</title>
@@ -298,24 +298,24 @@
     </item>
     <item>
       <title>Plannable Approximations to MDP Homomorphisms: Equivariance under Actions</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2020a/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2020a/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2020a/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, T. Kipf, F.A. Oliehoek, M. Welling&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;AAMAS 2020&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2002.11963.pdf&#34;&gt;pdf&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.elisevanderpol.nl/prae.html&#34;&gt;overview&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ElisevanderPol/PRAE&#34;&gt;code&lt;/a&gt;&#xA;&lt;a href=&#34;https://underline.io/lecture/228-plannable-approximations-to-mdp-homomorphisms-equivariance-under-actions&#34;&gt;video&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2020a/</guid>
+      <description></description>
     </item>
     <item>
       <title>Contrastive Learning of Structured World Models</title>
-      <link>https://www.elisevanderpol.nl/posts/kipf2020/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/kipf2020/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/kipf2020/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;T. Kipf, E. van der Pol, M. Welling&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;ICLR 2020 (oral)&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/1911.12247.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tkipf/c-swm&#34;&gt;code&lt;/a&gt;&#xA;&lt;a href=&#34;https://iclr.cc/virtual/poster_H1gax6VtDB.html&#34;&gt;video&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/kipf2020/</guid>
+      <description></description>
     </item>
     <item>
       <title>Hyperspherical Prototype Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/mettes2019/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/mettes2019/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/mettes2019/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;P. Mettes, E. van der Pol, C.G.M. Snoek&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;NeurIPS 2019&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://papers.nips.cc/paper/8428-hyperspherical-prototype-networks&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/psmmettes/hpn&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/mettes2019/</guid>
+      <description></description>
     </item>
     <item>
       <title>Hyperspherical Prototype Networks</title>
@@ -340,52 +340,52 @@
     </item>
     <item>
       <title>Visual Rationalizations in Deep Reinforcement Learning for Atari Games</title>
-      <link>https://www.elisevanderpol.nl/posts/weitkamp2018/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/weitkamp2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/weitkamp2018/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;L. Weitkamp, E. van der Pol, Z. Akata&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;BNAIC 2018 (oral)&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1902.00566&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/weitkamp2018/</guid>
+      <description>&lt;p&gt;Paper on post-hoc explanations in deep reinforcement learning, based on Laurens Weitkamp&amp;rsquo;s BSc thesis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beyond Local Nash Equilibria for Adversarial Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/oliehoek2018/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/oliehoek2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/oliehoek2018/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;F.A. Oliehoek, R. Savani, J. Gallego-Posada, E. van der Pol, R. Groß&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;Benelearn 2018&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1806.07268&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/oliehoek2018/</guid>
+      <description></description>
     </item>
     <item>
       <title>GANGs: Generative Adversarial Network Games</title>
-      <link>https://www.elisevanderpol.nl/posts/oliehoek2017/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/oliehoek2017/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/oliehoek2017/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;F.A. Oliehoek, R. Savani, J. Gallego-Posada, E. van der Pol, E.D. de Jong, R. GroßA&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;Arxiv Preprint&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1712.00679&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/oliehoek2017/</guid>
+      <description></description>
     </item>
     <item>
       <title>Coordinated Deep Reinforcement Learners for Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2016c/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016c/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2016c/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, F.A. Oliehoek&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;NeurIPS 2016 Workshop on Learning, Inference and Control of Multi-Agent Systems&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolNIPSMALIC2016.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016c/</guid>
+      <description></description>
     </item>
     <item>
       <title>Video Demo: Deep Reinforcement Learning for Coordination in Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2016b/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016b/</link>
       <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2016b/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, F.A. Oliehoek&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;BNAIC 2016&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolBNAIC2016b.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.fransoliehoek.net/trafficvideo&#34;&gt;video&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016b/</guid>
+      <description></description>
     </item>
     <item>
       <title>Deep Reinforcement Learning for Coordination in Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2016d/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016d/</link>
       <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2016d/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;Master&amp;rsquo;s thesis, University of Amsterdam&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolTHESIS2016.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016d/</guid>
+      <description></description>
     </item>
     <item>
       <title>Linguistic Style Accommodation in Disagreements</title>
-      <link>https://www.elisevanderpol.nl/posts/vanderpol2016a/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016a/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/vanderpol2016a/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;E. van der Pol, S. Gieske, R. Fernández&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;Joint Conference on Lexical and Computational Semantics (*SEM) (2016)&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://aclanthology.org/S16-2015.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016a/</guid>
+      <description></description>
     </item>
     <item>
       <title>Deep Reinforcement Learning</title>
@@ -396,10 +396,10 @@
     </item>
     <item>
       <title>Empirical Evaluation of Collective Rationality for Quota Rules in Judgment Aggregation</title>
-      <link>https://www.elisevanderpol.nl/posts/gieske2015/</link>
+      <link>https://www.elisevanderpol.nl/posts/publication/gieske2015/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/gieske2015/</guid>
-      <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;S. Gieske, E. van der Pol, U. Endriss,&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;BNAIC 2015&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elisevanderpol.nl/papers/gieskeBNAIC2015.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.elisevanderpol.nl/posts/publication/gieske2015/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
