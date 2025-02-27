@@ -2,396 +2,396 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Elise van der Pol </title>
-    <link>https://www.elisevanderpol.nl/categories/news/</link>
+    <link>http://localhost:1313/categories/news/</link>
     <description>Recent content by Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.elisevanderpol.nl/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Expected Return Symmetries</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/muglich2025/</link>
+      <link>http://localhost:1313/posts/publication/muglich2025/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/muglich2025/</guid>
+      <guid>http://localhost:1313/posts/publication/muglich2025/</guid>
       <description>&lt;p&gt;Our paper on Expected Return Symmetries was accepted to ICLR 2025. The paper concerns mutually incompatible symmetry breaking in zero-shot coordination. We introduce expected return symmetries, a broader symmetry class than environmental symmetries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetry &amp; Structure in RL – State of the art, challenges, and future directions</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2024/</link>
+      <link>http://localhost:1313/posts/talk2024/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2024/</guid>
+      <guid>http://localhost:1313/posts/talk2024/</guid>
       <description>&lt;p&gt;30 November 2024 I gave a keynote at EWRL 2024&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Talk</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2024c/</link>
+      <title>Exploring Uncharted Paths</title>
+      <link>http://localhost:1313/posts/talk2024c/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2024c/</guid>
+      <guid>http://localhost:1313/posts/talk2024c/</guid>
       <description>&lt;p&gt;I gave a talk at the &lt;a href=&#34;https://www.acnetwork.nl/chemai&#34;&gt;ChemAI&lt;/a&gt; workshop &amp;ldquo;Exploring Uncharted Paths: Mastering Retrosynthesis with Reinforcement Learning&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetry &amp; Structure in RL - State of the art, challenges, and future directions</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2024b/</link>
+      <link>http://localhost:1313/posts/talk2024b/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2024b/</guid>
+      <guid>http://localhost:1313/posts/talk2024b/</guid>
       <description>&lt;p&gt;I gave a keynote at the &lt;a href=&#34;https://equirob2024.github.io/&#34;&gt;IROS 2024 Workshop on Equivariant Robotics&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Featured in CS PhD narratives book</title>
-      <link>https://www.elisevanderpol.nl/posts/phd_narratives_book/</link>
+      <link>http://localhost:1313/posts/phd_narratives_book/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/phd_narratives_book/</guid>
+      <guid>http://localhost:1313/posts/phd_narratives_book/</guid>
       <description>&lt;p&gt;I was featured in the PhD narratives book &lt;a href=&#34;https://ir.cwi.nl/pub/33473&#34;&gt;Why would I want to do a PhD in computer science?&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>One-shot Imitation Learning via Interaction Warping</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/biza2023/</link>
+      <link>http://localhost:1313/posts/publication/biza2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/biza2023/</guid>
+      <guid>http://localhost:1313/posts/publication/biza2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Symmetries in Single and Multi-Agent Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023d/</link>
+      <link>http://localhost:1313/posts/talk2023d/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023d/</guid>
+      <guid>http://localhost:1313/posts/talk2023d/</guid>
       <description>&lt;p&gt;25th October 2023 I gave an invited talk at the &lt;a href=&#34;https://ui.ungpd.com/Events/e69525e2-a771-4453-ac56-7bc5e7b0fc8b&#34;&gt;Chalmers Structured Learning Workshop&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetries in Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023c/</link>
+      <link>http://localhost:1313/posts/talk2023c/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023c/</guid>
+      <guid>http://localhost:1313/posts/talk2023c/</guid>
       <description>&lt;p&gt;10th October 2023 I gave a talk at the &lt;a href=&#34;https://womeninai.nl/2023/11/08/wai-summit-top-5-award-nominees/&#34;&gt;WAI NL Summit&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nomination for the WAI NL Researcher Award</title>
-      <link>https://www.elisevanderpol.nl/posts/wai_nomination/</link>
+      <link>http://localhost:1313/posts/wai_nomination/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/wai_nomination/</guid>
+      <guid>http://localhost:1313/posts/wai_nomination/</guid>
       <description>&lt;p&gt;I was nominated for the WAI NL Researcher Award.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2023/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2023/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2023/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Successful PhD Defense</title>
-      <link>https://www.elisevanderpol.nl/posts/phd_defense/</link>
+      <link>http://localhost:1313/posts/phd_defense/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/phd_defense/</guid>
+      <guid>http://localhost:1313/posts/phd_defense/</guid>
       <description>&lt;p&gt;12th July 2023 I successfully defended my PhD thesis titled &lt;a href=&#34;https://www.elisevanderpol.nl/papers/vanderpolDISSERTATION2023.pdf&#34;&gt;Symmetry and Structure in Deep Reinforcement Learning&lt;/a&gt; and obtained my PhD degree.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organization: Symmetries in Robot Learning Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/rssworkshop/</link>
+      <link>http://localhost:1313/posts/rssworkshop/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/rssworkshop/</guid>
+      <guid>http://localhost:1313/posts/rssworkshop/</guid>
       <description>&lt;p&gt;We organized a &lt;a href=&#34;https://sites.google.com/view/rss23-sym&#34;&gt;workshop on Symmetries in Robot Learning&lt;/a&gt; at &lt;a href=&#34;https://roboticsconference.org/2023/&#34;&gt;RSS 2023&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetries in Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023b/</link>
+      <link>http://localhost:1313/posts/talk2023b/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023b/</guid>
+      <guid>http://localhost:1313/posts/talk2023b/</guid>
       <description>&lt;p&gt;5th July 2023 I gave a lecture on Symmetries in RL in the &lt;a href=&#34;http://rlsummerschool.com/&#34;&gt;Barcelona Reinforcement Learning Summer School&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Physics for Machine Learning Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/iclrworkshop2023/</link>
+      <link>http://localhost:1313/posts/iclrworkshop2023/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/iclrworkshop2023/</guid>
+      <guid>http://localhost:1313/posts/iclrworkshop2023/</guid>
       <description>&lt;p&gt;We organized a workshop on &lt;a href=&#34;https://physics4ml.github.io/&#34;&gt;Physics for Machine Learning&lt;/a&gt; at ICLR 2023.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2023a/</link>
+      <link>http://localhost:1313/posts/talk2023a/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2023a/</guid>
+      <guid>http://localhost:1313/posts/talk2023a/</guid>
       <description>&lt;p&gt;2nd February 2023 I gave an invited talk in the MILA Geometric Deep Learning Reading Group&lt;/p&gt;</description>
     </item>
     <item>
       <title>WiML Profile</title>
-      <link>https://www.elisevanderpol.nl/posts/wiml_profile/</link>
+      <link>http://localhost:1313/posts/wiml_profile/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/wiml_profile/</guid>
+      <guid>http://localhost:1313/posts/wiml_profile/</guid>
       <description>&lt;p&gt;I was &lt;a href=&#34;https://twitter.com/WiMLworkshop/status/1617397679914422272&#34;&gt;profiled&lt;/a&gt; by &lt;a href=&#34;https://wimlworkshop.org/&#34;&gt;Women in Machine Learning&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022f/</link>
+      <link>http://localhost:1313/posts/talk2022f/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022f/</guid>
+      <guid>http://localhost:1313/posts/talk2022f/</guid>
       <description>&lt;p&gt;14 December 2022 I gave an invited talk at the &lt;a href=&#34;https://icarl.doc.ic.ac.uk/&#34;&gt;icarl seminars&lt;/a&gt; at Imperial College London.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction to Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022e/</link>
+      <link>http://localhost:1313/posts/talk2022e/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022e/</guid>
+      <guid>http://localhost:1313/posts/talk2022e/</guid>
       <description>&lt;p&gt;I gave a guest lecture Introduction to Reinforcement Learning in University of Amsterdam&amp;rsquo;s MSc Data Science course Applied Machine Learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maximum Class Separation as Inductive Bias in One Matrix</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/kasarla2022/</link>
+      <link>http://localhost:1313/posts/publication/kasarla2022/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/kasarla2022/</guid>
+      <guid>http://localhost:1313/posts/publication/kasarla2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Equivariant Networks for Zero-Shot Coordination</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/muglich2022/</link>
+      <link>http://localhost:1313/posts/publication/muglich2022/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/muglich2022/</guid>
+      <guid>http://localhost:1313/posts/publication/muglich2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2022b/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2022b/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2022b/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2022b/</guid>
       <description>&lt;p&gt;Based on some work we did during my DeepMind internship.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetries in Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022d/</link>
+      <link>http://localhost:1313/posts/talk2022d/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022d/</guid>
+      <guid>http://localhost:1313/posts/talk2022d/</guid>
       <description>&lt;p&gt;14th July 2022 I&amp;rsquo;m giving a lecture on Symmetries in Reinforcement Learning at the &lt;a href=&#34;http://2022.rlsummerschool.com/&#34;&gt;Amsterdam Reinforcement Learning Summer School&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022c/</link>
+      <link>http://localhost:1313/posts/talk2022c/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022c/</guid>
+      <guid>http://localhost:1313/posts/talk2022c/</guid>
       <description>&lt;p&gt;03 June 2022 I gave an invited talk at BeneRL 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Senior Researcher</title>
-      <link>https://www.elisevanderpol.nl/posts/microsoftjob/</link>
+      <link>http://localhost:1313/posts/microsoftjob/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/microsoftjob/</guid>
+      <guid>http://localhost:1313/posts/microsoftjob/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve joined Microsoft Research Amsterdam as a Senior Researcher. I&amp;rsquo;ll be working on reinforcement learning and deep learning for molecular simulation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gamification and Multi-Agent Solutions Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/iclrworkshop/</link>
+      <link>http://localhost:1313/posts/iclrworkshop/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/iclrworkshop/</guid>
+      <guid>http://localhost:1313/posts/iclrworkshop/</guid>
       <description>&lt;p&gt;We organized a &lt;a href=&#34;https://www.gamificationmas.com/&#34;&gt;workshop on gamification and multi-agent solutions&lt;/a&gt; at ICLR 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multi-Agent MDP Homomorphic Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2022a/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2022a/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2022a/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2022a/</guid>
       <description></description>
     </item>
     <item>
       <title>Geometric and Physical Quantities improve E(3) Equivariant Message Passing</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/brandstetter2022/</link>
+      <link>http://localhost:1313/posts/publication/brandstetter2022/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/brandstetter2022/</guid>
+      <guid>http://localhost:1313/posts/publication/brandstetter2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2022a/</link>
+      <link>http://localhost:1313/posts/talk2022a/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2022a/</guid>
+      <guid>http://localhost:1313/posts/talk2022a/</guid>
       <description>&lt;p&gt;19 April 2022 I gave an invited talk at University of Oxford.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data-Centric Reinforcement Learning Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/neuripsworkshop/</link>
+      <link>http://localhost:1313/posts/neuripsworkshop/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/neuripsworkshop/</guid>
+      <guid>http://localhost:1313/posts/neuripsworkshop/</guid>
       <description>&lt;p&gt;We organized a &lt;a href=&#34;https://sites.google.com/view/ecorl2021/home&#34;&gt;workshop on data-centric reinforcement learning&lt;/a&gt; at NeurIPS 2021.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction to Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2021c/</link>
+      <link>http://localhost:1313/posts/talk2021c/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2021c/</guid>
+      <guid>http://localhost:1313/posts/talk2021c/</guid>
       <description>&lt;p&gt;30 November 2021 I gave a guest lecture Introduction to Reinforcement Learning in University of Amsterdam&amp;rsquo;s MSc Data Science course Applied Machine Learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Impact of Negative Sampling on Contrastive Structured World Models</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/biza2021/</link>
+      <link>http://localhost:1313/posts/publication/biza2021/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/biza2021/</guid>
+      <guid>http://localhost:1313/posts/publication/biza2021/</guid>
       <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;O. Biza, E. van der Pol, T. Kipf&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;ICML 2021 workshop on Self-Supervised Learning for Reasoning and Perception&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2107.11676.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ondrejba/negative-sampling-icml-21&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Geometric Deep Learning and Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2021b/</link>
+      <link>http://localhost:1313/posts/talk2021b/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2021b/</guid>
+      <guid>http://localhost:1313/posts/talk2021b/</guid>
       <description>&lt;p&gt;15 July 2021 I gave a talk on Geometric Deep Learning and Reinforcement Learning for the &lt;a href=&#34;https://geometricdeeplearning.com/lectures_2021/&#34;&gt;Geometric Deep Learning course&lt;/a&gt; in the &lt;a href=&#34;https://aimsammi.org/&#34;&gt;African Masters in Machine Intelligence&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepMind Internship</title>
-      <link>https://www.elisevanderpol.nl/posts/deepmindvisit/</link>
+      <link>http://localhost:1313/posts/deepmindvisit/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/deepmindvisit/</guid>
+      <guid>http://localhost:1313/posts/deepmindvisit/</guid>
       <description>&lt;p&gt;I was a research scientist intern in DeepMind&amp;rsquo;s Multi-Agent team.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Equivariance in MDPs</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2021a/</link>
+      <link>http://localhost:1313/posts/talk2021a/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2021a/</guid>
+      <guid>http://localhost:1313/posts/talk2021a/</guid>
       <description>&lt;p&gt;7 May 2021 I gave a keynote talk on Equivariance in MDPs at the ICLR workshop on &lt;a href=&#34;https://iclr.cc/virtual/2021/workshop/2126&#34;&gt;Self-supervision for Reinforcement Learning&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bad Hypothesis Contest Social</title>
-      <link>https://www.elisevanderpol.nl/posts/iclrsocial/</link>
+      <link>http://localhost:1313/posts/iclrsocial/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/iclrsocial/</guid>
+      <guid>http://localhost:1313/posts/iclrsocial/</guid>
       <description>&lt;p&gt;We organized an &lt;a href=&#34;https://www.elisevanderpol.nl/badhypothesiscontest/&#34;&gt;ICLR social&lt;/a&gt; which took place 6 May 2021.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Featured in GNNs in RL blog</title>
-      <link>https://www.elisevanderpol.nl/posts/gdl_blog/</link>
+      <link>http://localhost:1313/posts/gdl_blog/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/gdl_blog/</guid>
+      <guid>http://localhost:1313/posts/gdl_blog/</guid>
       <description>&lt;p&gt;I was invited to contribute my thoughts on GNNs in RL to &lt;a href=&#34;https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc&#34;&gt;What does 2022 hold for Geometric and Graph ML?&lt;/a&gt; by Michael Bronstein and Petar Veličkovi&lt;/p&gt;</description>
     </item>
     <item>
       <title>MDP Homomorphic Networks for Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020d/</link>
+      <link>http://localhost:1313/posts/talk2020d/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020d/</guid>
+      <guid>http://localhost:1313/posts/talk2020d/</guid>
       <description>&lt;p&gt;15 December 2020 I gave a talk on MDP Homomorphic Networks for Deep Reinforcement Learning at the University of Tuebingen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2020b/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2020b/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2020b/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2020b/</guid>
       <description></description>
     </item>
     <item>
       <title>Introduction to Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020c/</link>
+      <link>http://localhost:1313/posts/talk2020c/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020c/</guid>
+      <guid>http://localhost:1313/posts/talk2020c/</guid>
       <description>&lt;p&gt;23 November 2020 I gave a guest lecture Introduction to Reinforcement Learning in University of Amsterdam&amp;rsquo;s MSc Data Science course Applied Machine Learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Equivariance, deep reinforcement learning, and making it work</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020b/</link>
+      <link>http://localhost:1313/posts/talk2020b/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020b/</guid>
+      <guid>http://localhost:1313/posts/talk2020b/</guid>
       <description>&lt;p&gt;13 November 2020 I gave a talk on Equivariance, deep reinforcement learning, and making it work at Leiden University.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data-Efficient Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2020a/</link>
+      <link>http://localhost:1313/posts/talk2020a/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2020a/</guid>
+      <guid>http://localhost:1313/posts/talk2020a/</guid>
       <description>&lt;p&gt;I gave a talk on Data-efficient Reinforcement Learning as part of TU Delft&amp;rsquo;s &lt;a href=&#34;https://courses.edx.org/courses/course-v1:DelftX+AIIP1x+3T2020/course/&#34;&gt;AI in Practice course&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plannable Approximations to MDP Homomorphisms: Equivariance under Actions</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2020a/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2020a/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2020a/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2020a/</guid>
       <description></description>
     </item>
     <item>
       <title>Contrastive Learning of Structured World Models</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/kipf2020/</link>
+      <link>http://localhost:1313/posts/publication/kipf2020/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/kipf2020/</guid>
+      <guid>http://localhost:1313/posts/publication/kipf2020/</guid>
       <description></description>
     </item>
     <item>
       <title>Hyperspherical Prototype Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/mettes2019/</link>
+      <link>http://localhost:1313/posts/publication/mettes2019/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/mettes2019/</guid>
+      <guid>http://localhost:1313/posts/publication/mettes2019/</guid>
       <description></description>
     </item>
     <item>
       <title>Hyperspherical Prototype Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2019/</link>
+      <link>http://localhost:1313/posts/talk2019/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2019/</guid>
+      <guid>http://localhost:1313/posts/talk2019/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Latent Planning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2018/</link>
+      <link>http://localhost:1313/posts/talk2018/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2018/</guid>
+      <guid>http://localhost:1313/posts/talk2018/</guid>
       <description></description>
     </item>
     <item>
       <title>Visual Rationalizations in Deep Reinforcement Learning for Atari Games</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/weitkamp2018/</link>
+      <link>http://localhost:1313/posts/publication/weitkamp2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/weitkamp2018/</guid>
+      <guid>http://localhost:1313/posts/publication/weitkamp2018/</guid>
       <description>&lt;p&gt;Paper on post-hoc explanations in deep reinforcement learning, based on Laurens Weitkamp&amp;rsquo;s BSc thesis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beyond Local Nash Equilibria for Adversarial Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/oliehoek2018/</link>
+      <link>http://localhost:1313/posts/publication/oliehoek2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/oliehoek2018/</guid>
+      <guid>http://localhost:1313/posts/publication/oliehoek2018/</guid>
       <description></description>
     </item>
     <item>
       <title>GANGs: Generative Adversarial Network Games</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/oliehoek2017/</link>
+      <link>http://localhost:1313/posts/publication/oliehoek2017/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/oliehoek2017/</guid>
+      <guid>http://localhost:1313/posts/publication/oliehoek2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Coordinated Deep Reinforcement Learners for Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016c/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016c/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016c/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016c/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Demo: Deep Reinforcement Learning for Coordination in Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016b/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016b/</link>
       <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016b/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016b/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Reinforcement Learning for Coordination in Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016d/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016d/</link>
       <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016d/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016d/</guid>
       <description></description>
     </item>
     <item>
       <title>Linguistic Style Accommodation in Disagreements</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016a/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016a/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016a/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016a/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/talk2016/</link>
+      <link>http://localhost:1313/posts/talk2016/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/talk2016/</guid>
+      <guid>http://localhost:1313/posts/talk2016/</guid>
       <description></description>
     </item>
     <item>
       <title>Empirical Evaluation of Collective Rationality for Quota Rules in Judgment Aggregation</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/gieske2015/</link>
+      <link>http://localhost:1313/posts/publication/gieske2015/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/gieske2015/</guid>
+      <guid>http://localhost:1313/posts/publication/gieske2015/</guid>
       <description></description>
     </item>
   </channel>

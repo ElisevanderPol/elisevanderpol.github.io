@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Elise van der Pol </title>
-    <link>https://www.elisevanderpol.nl/categories/organization/</link>
+    <link>http://localhost:1313/categories/organization/</link>
     <description>Recent content by Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.elisevanderpol.nl/categories/organization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/organization/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Organization: Symmetries in Robot Learning Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/rssworkshop/</link>
+      <link>http://localhost:1313/posts/rssworkshop/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/rssworkshop/</guid>
+      <guid>http://localhost:1313/posts/rssworkshop/</guid>
       <description>&lt;p&gt;We organized a &lt;a href=&#34;https://sites.google.com/view/rss23-sym&#34;&gt;workshop on Symmetries in Robot Learning&lt;/a&gt; at &lt;a href=&#34;https://roboticsconference.org/2023/&#34;&gt;RSS 2023&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Physics for Machine Learning Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/iclrworkshop2023/</link>
+      <link>http://localhost:1313/posts/iclrworkshop2023/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/iclrworkshop2023/</guid>
+      <guid>http://localhost:1313/posts/iclrworkshop2023/</guid>
       <description>&lt;p&gt;We organized a workshop on &lt;a href=&#34;https://physics4ml.github.io/&#34;&gt;Physics for Machine Learning&lt;/a&gt; at ICLR 2023.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gamification and Multi-Agent Solutions Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/iclrworkshop/</link>
+      <link>http://localhost:1313/posts/iclrworkshop/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/iclrworkshop/</guid>
+      <guid>http://localhost:1313/posts/iclrworkshop/</guid>
       <description>&lt;p&gt;We organized a &lt;a href=&#34;https://www.gamificationmas.com/&#34;&gt;workshop on gamification and multi-agent solutions&lt;/a&gt; at ICLR 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data-Centric Reinforcement Learning Workshop</title>
-      <link>https://www.elisevanderpol.nl/posts/neuripsworkshop/</link>
+      <link>http://localhost:1313/posts/neuripsworkshop/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/neuripsworkshop/</guid>
+      <guid>http://localhost:1313/posts/neuripsworkshop/</guid>
       <description>&lt;p&gt;We organized a &lt;a href=&#34;https://sites.google.com/view/ecorl2021/home&#34;&gt;workshop on data-centric reinforcement learning&lt;/a&gt; at NeurIPS 2021.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bad Hypothesis Contest Social</title>
-      <link>https://www.elisevanderpol.nl/posts/iclrsocial/</link>
+      <link>http://localhost:1313/posts/iclrsocial/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/iclrsocial/</guid>
+      <guid>http://localhost:1313/posts/iclrsocial/</guid>
       <description>&lt;p&gt;We organized an &lt;a href=&#34;https://www.elisevanderpol.nl/badhypothesiscontest/&#34;&gt;ICLR social&lt;/a&gt; which took place 6 May 2021.&lt;/p&gt;</description>
     </item>
   </channel>

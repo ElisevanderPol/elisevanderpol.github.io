@@ -2,158 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Elise van der Pol </title>
-    <link>https://www.elisevanderpol.nl/categories/publication/</link>
+    <link>http://localhost:1313/categories/publication/</link>
     <description>Recent content by Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.elisevanderpol.nl/categories/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Expected Return Symmetries</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/muglich2025/</link>
+      <link>http://localhost:1313/posts/publication/muglich2025/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/muglich2025/</guid>
+      <guid>http://localhost:1313/posts/publication/muglich2025/</guid>
       <description>&lt;p&gt;Our paper on Expected Return Symmetries was accepted to ICLR 2025. The paper concerns mutually incompatible symmetry breaking in zero-shot coordination. We introduce expected return symmetries, a broader symmetry class than environmental symmetries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>One-shot Imitation Learning via Interaction Warping</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/biza2023/</link>
+      <link>http://localhost:1313/posts/publication/biza2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/biza2023/</guid>
+      <guid>http://localhost:1313/posts/publication/biza2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Symmetry and Structure in Deep Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2023/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2023/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2023/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Maximum Class Separation as Inductive Bias in One Matrix</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/kasarla2022/</link>
+      <link>http://localhost:1313/posts/publication/kasarla2022/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/kasarla2022/</guid>
+      <guid>http://localhost:1313/posts/publication/kasarla2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Equivariant Networks for Zero-Shot Coordination</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/muglich2022/</link>
+      <link>http://localhost:1313/posts/publication/muglich2022/</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/muglich2022/</guid>
+      <guid>http://localhost:1313/posts/publication/muglich2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Stochastic Parallelizable Eigengap Dilation for Large Graph Clustering</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2022b/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2022b/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2022b/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2022b/</guid>
       <description>&lt;p&gt;Based on some work we did during my DeepMind internship.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multi-Agent MDP Homomorphic Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2022a/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2022a/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2022a/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2022a/</guid>
       <description></description>
     </item>
     <item>
       <title>Geometric and Physical Quantities improve E(3) Equivariant Message Passing</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/brandstetter2022/</link>
+      <link>http://localhost:1313/posts/publication/brandstetter2022/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/brandstetter2022/</guid>
+      <guid>http://localhost:1313/posts/publication/brandstetter2022/</guid>
       <description></description>
     </item>
     <item>
       <title>The Impact of Negative Sampling on Contrastive Structured World Models</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/biza2021/</link>
+      <link>http://localhost:1313/posts/publication/biza2021/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/biza2021/</guid>
+      <guid>http://localhost:1313/posts/publication/biza2021/</guid>
       <description>&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;&#xA;&lt;p&gt;O. Biza, E. van der Pol, T. Kipf&lt;/p&gt;&#xA;&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;&#xA;&lt;p&gt;ICML 2021 workshop on Self-Supervised Learning for Reasoning and Perception&lt;/p&gt;&#xA;&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2107.11676.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ondrejba/negative-sampling-icml-21&#34;&gt;code&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MDP Homomorphic Networks: Group Symmetries in Reinforcement Learning</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2020b/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2020b/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2020b/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2020b/</guid>
       <description></description>
     </item>
     <item>
       <title>Plannable Approximations to MDP Homomorphisms: Equivariance under Actions</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2020a/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2020a/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2020a/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2020a/</guid>
       <description></description>
     </item>
     <item>
       <title>Contrastive Learning of Structured World Models</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/kipf2020/</link>
+      <link>http://localhost:1313/posts/publication/kipf2020/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/kipf2020/</guid>
+      <guid>http://localhost:1313/posts/publication/kipf2020/</guid>
       <description></description>
     </item>
     <item>
       <title>Hyperspherical Prototype Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/mettes2019/</link>
+      <link>http://localhost:1313/posts/publication/mettes2019/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/mettes2019/</guid>
+      <guid>http://localhost:1313/posts/publication/mettes2019/</guid>
       <description></description>
     </item>
     <item>
       <title>Visual Rationalizations in Deep Reinforcement Learning for Atari Games</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/weitkamp2018/</link>
+      <link>http://localhost:1313/posts/publication/weitkamp2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/weitkamp2018/</guid>
+      <guid>http://localhost:1313/posts/publication/weitkamp2018/</guid>
       <description>&lt;p&gt;Paper on post-hoc explanations in deep reinforcement learning, based on Laurens Weitkamp&amp;rsquo;s BSc thesis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beyond Local Nash Equilibria for Adversarial Networks</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/oliehoek2018/</link>
+      <link>http://localhost:1313/posts/publication/oliehoek2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/oliehoek2018/</guid>
+      <guid>http://localhost:1313/posts/publication/oliehoek2018/</guid>
       <description></description>
     </item>
     <item>
       <title>GANGs: Generative Adversarial Network Games</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/oliehoek2017/</link>
+      <link>http://localhost:1313/posts/publication/oliehoek2017/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/oliehoek2017/</guid>
+      <guid>http://localhost:1313/posts/publication/oliehoek2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Coordinated Deep Reinforcement Learners for Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016c/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016c/</link>
       <pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016c/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016c/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Demo: Deep Reinforcement Learning for Coordination in Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016b/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016b/</link>
       <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016b/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016b/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Reinforcement Learning for Coordination in Traffic Light Control</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016d/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016d/</link>
       <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016d/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016d/</guid>
       <description></description>
     </item>
     <item>
       <title>Linguistic Style Accommodation in Disagreements</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/vanderpol2016a/</link>
+      <link>http://localhost:1313/posts/publication/vanderpol2016a/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/vanderpol2016a/</guid>
+      <guid>http://localhost:1313/posts/publication/vanderpol2016a/</guid>
       <description></description>
     </item>
     <item>
       <title>Empirical Evaluation of Collective Rationality for Quota Rules in Judgment Aggregation</title>
-      <link>https://www.elisevanderpol.nl/posts/publication/gieske2015/</link>
+      <link>http://localhost:1313/posts/publication/gieske2015/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.elisevanderpol.nl/posts/publication/gieske2015/</guid>
+      <guid>http://localhost:1313/posts/publication/gieske2015/</guid>
       <description></description>
     </item>
   </channel>
