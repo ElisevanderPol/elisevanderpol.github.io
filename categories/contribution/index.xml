@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Elise van der Pol </title>
-    <link>http://localhost:1313/categories/contribution/</link>
+    <link>https://www.elisevanderpol.nl/categories/contribution/</link>
     <description>Recent content by Elise van der Pol</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/contribution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.elisevanderpol.nl/categories/contribution/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Featured in CS PhD narratives book</title>
-      <link>http://localhost:1313/posts/phd_narratives_book/</link>
+      <link>https://www.elisevanderpol.nl/posts/phd_narratives_book/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/phd_narratives_book/</guid>
+      <guid>https://www.elisevanderpol.nl/posts/phd_narratives_book/</guid>
       <description>&lt;p&gt;I was featured in the PhD narratives book &lt;a href=&#34;https://ir.cwi.nl/pub/33473&#34;&gt;Why would I want to do a PhD in computer science?&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WiML Profile</title>
-      <link>http://localhost:1313/posts/wiml_profile/</link>
+      <link>https://www.elisevanderpol.nl/posts/wiml_profile/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wiml_profile/</guid>
+      <guid>https://www.elisevanderpol.nl/posts/wiml_profile/</guid>
       <description>&lt;p&gt;I was &lt;a href=&#34;https://twitter.com/WiMLworkshop/status/1617397679914422272&#34;&gt;profiled&lt;/a&gt; by &lt;a href=&#34;https://wimlworkshop.org/&#34;&gt;Women in Machine Learning&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Featured in GNNs in RL blog</title>
-      <link>http://localhost:1313/posts/gdl_blog/</link>
+      <link>https://www.elisevanderpol.nl/posts/gdl_blog/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gdl_blog/</guid>
+      <guid>https://www.elisevanderpol.nl/posts/gdl_blog/</guid>
       <description>&lt;p&gt;I was invited to contribute my thoughts on GNNs in RL to &lt;a href=&#34;https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc&#34;&gt;What does 2022 hold for Geometric and Graph ML?&lt;/a&gt; by Michael Bronstein and Petar Veličkovi&lt;/p&gt;</description>
     </item>
   </channel>
